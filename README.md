@@ -1,1 +1,0 @@
-# Laurent_catalogo_lab_elo
