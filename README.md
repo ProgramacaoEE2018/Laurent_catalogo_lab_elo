@@ -8,4 +8,12 @@ com aquelas letras. Conforme ele vai escrevendo a palavra as opções se reduzem
 Quando ele clica no item que deseja aparece uma imagem simples de como é o componente 
 e algumas informações.
 
+##Biblioteca
+
+  A biblioteca utilizada foi QT seguindo o tutorial de vídeos do Youtube. Segue o link:
+  https://www.youtube.com/watch?v=GxlB34Cn0zw&index=3&list=PL2D1942A4688E9D63
+  ![Tutorial](tutorial.jpeg)
+  
+##Esboço
+
 ![Esboço](esboço.jpeg)
