@@ -7,3 +7,5 @@ e um motor de busca vai mostrando quais são as peças que têm lá no Lab e que
 com aquelas letras. Conforme ele vai escrevendo a palavra as opções se reduzem. 
 Quando ele clica no item que deseja aparece uma imagem simples de como é o componente 
 e algumas informações.
+
+![Esboço](esboço.jpeg)
