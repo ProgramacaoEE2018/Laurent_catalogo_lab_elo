@@ -26,5 +26,5 @@ FLUXOGRAMA
 ![fluxograma](fluxograma.pdf)
 https://github.com/ProgramacaoEE2018/Laurent_catalogo_lab_elo/blob/master/Fluxograma.pdf
 
-
-![classes](Diagrama de classes.pdf)
+DIAGRAMA DE CLASSES
+https://github.com/ProgramacaoEE2018/Laurent_catalogo_lab_elo/blob/master/Diagrama%20de%20classes.pdf
