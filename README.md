@@ -22,7 +22,9 @@ O kit utilizado no QT foi o Desktop Qt 5.11.0 MinGW 32bit.
 É necessário definir um diretório qualquer do computador para que o programa liste seus arquivos na linha 10 do dialog.cpp
 Eu consegui fazer o motor de busca usando a biblioteca QRegExp e ainda tem um contador que mostra o total de resultados encontrados.O problema é que não consegui fazer o programa listar os componentes do laboratório que estariam em um arquivo excel ou um txt. O motor de busca apenas procura pelos arquivos os quais estão no diretório definido.
 
-
+FLUXOGRAMA
 ![fluxograma](fluxograma.pdf)
+https://github.com/ProgramacaoEE2018/Laurent_catalogo_lab_elo/blob/master/Fluxograma.pdf
+
 
 ![classes](Diagrama de classes.pdf)
